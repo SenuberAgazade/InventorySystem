@@ -1,0 +1,14 @@
+C:\Users\Senuber\Desktop\InventorySystem\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\Senuber\Desktop\InventorySystem\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Senuber\Desktop\InventorySystem\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\Senuber\Desktop\InventorySystem\DataAccess\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Senuber\Desktop\InventorySystem\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\Senuber\Desktop\InventorySystem\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Senuber\Desktop\InventorySystem\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\Senuber\Desktop\InventorySystem\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\Senuber\Desktop\InventorySystem\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Senuber\Desktop\InventorySystem\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\Senuber\Desktop\InventorySystem\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Senuber\Desktop\InventorySystem\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Users\Senuber\Desktop\InventorySystem\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Senuber\Desktop\InventorySystem\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
